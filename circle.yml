@@ -15,4 +15,4 @@ deployment:
   production:
     branch: "master"
     commands:
-- printf "<>\n<>\n" | meteor deploy circlecivelocity.meteor.com
+- printf "<szubair100>\n<>\n" | meteor deploy circlecivelocity.meteor.com
