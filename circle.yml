@@ -15,4 +15,4 @@ deployment:
   production:
     branch: "master"
     commands:
-- printf "<Meteor username>\n<Meteor password>\n" | meteor deploy circlecivelocity.meteor.com
+- printf "<>\n<>\n" | meteor deploy circlecivelocity.meteor.com
